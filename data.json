@@ -1,0 +1,362 @@
+{
+  "10001": {
+    "info": {
+      "Name": "John Smith",
+      "Email": "john.smith@svu-mcs.com",
+      "mobile": "+1 (555) 123-4567 \n"
+    },
+    "sales": [
+      {
+        "saleID": "17",
+        "productName": "Bose SoundLink Revolve+",
+        "quantity": "4",
+        "unitPrice": "2800000\n"
+      }
+    ]
+  },
+  "10002": {
+    "info": {
+      "Name": "Emily Johnson",
+      "Email": "emily.johnson@svu-mcs.com",
+      "mobile": "+1 (555) 987-6543 \n"
+    },
+    "sales": [
+      {
+        "saleID": "5",
+        "productName": "Apple MacBook Pro",
+        "quantity": "2",
+        "unitPrice": "28000000\n"
+      }
+    ]
+  },
+  "10003": {
+    "info": {
+      "Name": "Michael Davis",
+      "Email": "michael.davis@svu-mcs.com",
+      "mobile": "+1 (555) 567-8901 \n"
+    },
+    "sales": [
+      {
+        "saleID": "11",
+        "productName": "Sony WH-1000XM4",
+        "quantity": "1",
+        "unitPrice": "4900000\n"
+      },
+      {
+        "saleID": "27",
+        "productName": "Bose QuietComfort Earbuds",
+        "quantity": "2",
+        "unitPrice": "3920000\n"
+      }
+    ]
+  },
+  "10004": {
+    "info": {
+      "Name": "Sarah Thompson",
+      "Email": "sarah.thompson@svu-mcs.com",
+      "mobile": "+1 (555) 234-5678 \n"
+    },
+    "sales": [
+      {
+        "saleID": "7",
+        "productName": "Microsoft Xbox Series X",
+        "quantity": "3",
+        "unitPrice": "8400000\n"
+      },
+      {
+        "saleID": "21",
+        "productName": "Samsung 65-inch 4K Smart TV",
+        "quantity": "1",
+        "unitPrice": "14000000\n"
+      }
+    ]
+  },
+  "10005": {
+    "info": {
+      "Name": "Jessica Wilson",
+      "Email": "jessica.wilson@svu-mcs.com",
+      "mobile": "+1 (555) 678-9012 \n"
+    },
+    "sales": [
+      {
+        "saleID": "1",
+        "productName": "Apple iPhone 12",
+        "quantity": "3",
+        "unitPrice": "15400000\n"
+      }
+    ]
+  },
+  "10006": {
+    "info": {
+      "Name": "David Anderson",
+      "Email": "david.anderson@svu-mcs.com",
+      "mobile": "+1 (555) 890-1234 \n"
+    },
+    "sales": [
+      {
+        "saleID": "15",
+        "productName": "Fitbit Versa 3",
+        "quantity": "2",
+        "unitPrice": "3220000\n"
+      },
+      {
+        "saleID": "25",
+        "productName": "Google Pixel 4a",
+        "quantity": "2",
+        "unitPrice": "4900000\n"
+      }
+    ]
+  },
+  "10007": {
+    "info": {
+      "Name": "Jennifer Martinez",
+      "Email": "jennifer.martinez@svu-mcs.com",
+      "mobile": "+1 (555) 901-2345 \n"
+    },
+    "sales": [
+      {
+        "saleID": "10",
+        "productName": "Nintendo Switch",
+        "quantity": "2",
+        "unitPrice": "4200000\n"
+      },
+      {
+        "saleID": "30",
+        "productName": "GoPro Hero 8 Black",
+        "quantity": "2",
+        "unitPrice": "4900000"
+      }
+    ]
+  },
+  "10008": {
+    "info": {
+      "Name": "Christopher Brown",
+      "Email": "christopher.brown@svu-mcs.com",
+      "mobile": "+1 (555) 345-6789 \n"
+    },
+    "sales": [
+      {
+        "saleID": "3",
+        "productName": "Google Pixel 5",
+        "quantity": "1",
+        "unitPrice": "11200000\n"
+      }
+    ]
+  },
+  "10009": {
+    "info": {
+      "Name": "Amanda Taylor",
+      "Email": "amanda.taylor@svu-mcs.com",
+      "mobile": "+1 (555) 789-0123 \n"
+    },
+    "sales": [
+      {
+        "saleID": "13",
+        "productName": "Amazon Echo Dot",
+        "quantity": "3",
+        "unitPrice": "700000\n"
+      },
+      {
+        "saleID": "23",
+        "productName": "Microsoft Xbox Series X",
+        "quantity": "1",
+        "unitPrice": "7000000\n"
+      }
+    ]
+  },
+  "10010": {
+    "info": {
+      "Name": "Matthew Clark",
+      "Email": "matthew.clark@svu-mcs.com",
+      "mobile": "+1 (555) 012-3456\n"
+    },
+    "sales": [
+      {
+        "saleID": "8",
+        "productName": "Samsung QLED 4K TV",
+        "quantity": "1",
+        "unitPrice": "18200000\n"
+      },
+      {
+        "saleID": "28",
+        "productName": "Amazon Echo Show 8",
+        "quantity": "1",
+        "unitPrice": "1820000\n"
+      }
+    ]
+  },
+  "10011": {
+    "info": {
+      "Name": "Olivia Wilson",
+      "Email": "olivia.wilson@svu-mcs.com",
+      "mobile": "+1 (555) 543-2109 \n"
+    },
+    "sales": [
+      {
+        "saleID": "18",
+        "productName": "Apple AirPods Pro",
+        "quantity": "2",
+        "unitPrice": "3500000\n"
+      }
+    ]
+  },
+  "10012": {
+    "info": {
+      "Name": "William Thompson",
+      "Email": "william.thompson@svu-mcs.com",
+      "mobile": "+1 (555) 654-3210 \n"
+    },
+    "sales": [
+      {
+        "saleID": "6",
+        "productName": "Sony PlayStation 5",
+        "quantity": "1",
+        "unitPrice": "7000000\n"
+      },
+      {
+        "saleID": "22",
+        "productName": "Apple iPad Pro",
+        "quantity": "2",
+        "unitPrice": "11200000\n"
+      }
+    ]
+  },
+  "10013": {
+    "info": {
+      "Name": "Sophia Davis",
+      "Email": "sophia.davis@svu-mcs.com",
+      "mobile": "+1 (555) 987-6543 \n"
+    },
+    "sales": [
+      {
+        "saleID": "4",
+        "productName": "Microsoft Surface Laptop",
+        "quantity": "5",
+        "unitPrice": "21000000\n"
+      }
+    ]
+  },
+  "10014": {
+    "info": {
+      "Name": "Aiden Johnson",
+      "Email": "aiden.johnson@svu-mcs.com",
+      "mobile": "+1 (555) 876-5432 \n"
+    },
+    "sales": [
+      {
+        "saleID": "14",
+        "productName": "Dyson V11 Absolute",
+        "quantity": "1",
+        "unitPrice": "8400000\n"
+      }
+    ]
+  },
+  "10015": {
+    "info": {
+      "Name": "Emma Martinez",
+      "Email": "emma.martinez@svu-mcs.com",
+      "mobile": "+1 (555) 765-4321 \n"
+    },
+    "sales": [
+      {
+        "saleID": "16",
+        "productName": "Nikon D850 DSLR",
+        "quantity": "1",
+        "unitPrice": "42000000\n"
+      },
+      {
+        "saleID": "26",
+        "productName": "Fitbit Charge 4",
+        "quantity": "1",
+        "unitPrice": "2100000\n"
+      }
+    ]
+  },
+  "10016": {
+    "info": {
+      "Name": "Liam Anderson",
+      "Email": "liam.anderson@svu-mcs.com",
+      "mobile": "+1 (555) 543-2109 \n"
+    },
+    "sales": [
+      {
+        "saleID": "9",
+        "productName": "Bose QuietComfort 35 II",
+        "quantity": "4",
+        "unitPrice": "4900000\n"
+      },
+      {
+        "saleID": "29",
+        "productName": "DJI Mavic Air 2",
+        "quantity": "1",
+        "unitPrice": "11200000\n"
+      }
+    ]
+  },
+  "10017": {
+    "info": {
+      "Name": "Isabella Brown",
+      "Email": "isabella.brown@svu-mcs.com",
+      "mobile": "+1 (555) 432-1098 \n"
+    },
+    "sales": [
+      {
+        "saleID": "2",
+        "productName": "Samsung Galaxy S21",
+        "quantity": "2",
+        "unitPrice": "14000000\n"
+      }
+    ]
+  },
+  "10018": {
+    "info": {
+      "Name": "Noah Taylor",
+      "Email": "noah.taylor@svu-mcs.com",
+      "mobile": "+1 (555) 321-0987 \n"
+    },
+    "sales": [
+      {
+        "saleID": "12",
+        "productName": "GoPro Hero 9 Black",
+        "quantity": "2",
+        "unitPrice": "6300000\n"
+      },
+      {
+        "saleID": "24",
+        "productName": "Sony WH-1000XM4",
+        "quantity": "3",
+        "unitPrice": "4900000\n"
+      }
+    ]
+  },
+  "10019": {
+    "info": {
+      "Name": "Sofia Clark",
+      "Email": "sofia.clark@svu-mcs.com",
+      "mobile": "+1 (555) 210-9876 \n"
+    },
+    "sales": [
+      {
+        "saleID": "20",
+        "productName": "Google Nest Hub",
+        "quantity": "3",
+        "unitPrice": "1260000\n"
+      }
+    ]
+  },
+  "10020": {
+    "info": {
+      "Name": "Ethan Johnson",
+      "Email": "ethan.johnson@svu-mcs.com",
+      "mobile": "+1 (555) 654-3210 "
+    },
+    "sales": [
+      {
+        "saleID": "19",
+        "productName": "Canon EOS R5",
+        "quantity": "1",
+        "unitPrice": "54600000\n"
+      }
+    ]
+  }
+}

@@ -1,7 +1,7 @@
 import sys
 
 # program functions
-def sayWelcome():
+def sayHello():
   print("\n\n\n")
   print('Welcome to the customer service of "XCar Company for car rental"\n'+
       '==================================================================\n')
@@ -10,7 +10,6 @@ def exitProgram():
   print("\n=================================================================="+
       "\nThank you for using our services, good bye.\n")
   sys.exit()
-
 
 def getDuration():
   while True:
@@ -50,15 +49,12 @@ def again():
 
   return command=="1"
 
-
 # program commands
-
 runAgain= True
 while(runAgain):
-  sayWelcome()
+  sayHello()
   duration= getDuration()
   printCost(duration)
   runAgain = again()
 
 exitProgram()
-

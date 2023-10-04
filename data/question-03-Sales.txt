@@ -1,0 +1,31 @@
+saleID,socialSecurityNumber,productName,quantity,unitPrice
+1,10005,Apple iPhone 12,3,15400000
+2,10017,Samsung Galaxy S21,2,14000000
+3,10008,Google Pixel 5,1,11200000
+4,10013,Microsoft Surface Laptop,5,21000000
+5,10002,Apple MacBook Pro,2,28000000
+6,10012,Sony PlayStation 5,1,7000000
+7,10004,Microsoft Xbox Series X,3,8400000
+8,10010,Samsung QLED 4K TV,1,18200000
+9,10016,Bose QuietComfort 35 II,4,4900000
+10,10007,Nintendo Switch,2,4200000
+11,10003,Sony WH-1000XM4,1,4900000
+12,10018,GoPro Hero 9 Black,2,6300000
+13,10009,Amazon Echo Dot,3,700000
+14,10014,Dyson V11 Absolute,1,8400000
+15,10006,Fitbit Versa 3,2,3220000
+16,10015,Nikon D850 DSLR,1,42000000
+17,10001,Bose SoundLink Revolve+,4,2800000
+18,10011,Apple AirPods Pro,2,3500000
+19,10020,Canon EOS R5,1,54600000
+20,10019,Google Nest Hub,3,1260000
+21,10004,Samsung 65-inch 4K Smart TV,1,14000000
+22,10012,Apple iPad Pro,2,11200000
+23,10009,Microsoft Xbox Series X,1,7000000
+24,10018,Sony WH-1000XM4,3,4900000
+25,10006,Google Pixel 4a,2,4900000
+26,10015,Fitbit Charge 4,1,2100000
+27,10003,Bose QuietComfort Earbuds,2,3920000
+28,10010,Amazon Echo Show 8,1,1820000
+29,10016,DJI Mavic Air 2,1,11200000
+30,10007,GoPro Hero 8 Black,2,4900000

@@ -1,7 +1,7 @@
 import sys
 
 # program functions
-def sayWelcome():
+def sayHello():
   print("\n\n\n")
   print('Question 2:\n'+
       '==================================================================\n')
@@ -10,7 +10,6 @@ def exitProgram():
   print("\n=================================================================="+
       "\nGood bye.\n")
   sys.exit()
-
 
 def getNumber():
   while True:
@@ -40,7 +39,6 @@ def checkSymmetry(stringNum):
   else:
     print("No, the number '"+ stringNum +"' is NOT Symmetry.❎")
 
-
 def again():
   print("-------------------------------\n")
   print("1.   try again.")
@@ -48,15 +46,12 @@ def again():
   command = input("please enter your choice: ")
   return command=="1"
 
-
 # program commands
-
 runAgain= True
 while(runAgain):
-  sayWelcome()
+  sayHello()
   Number= getNumber()
   checkSymmetry(str(Number))
   runAgain = again()
 
 exitProgram()
-
