@@ -1,10 +1,8 @@
 {
   "10001": {
-    "info": {
-      "Name": "John Smith",
-      "Email": "john.smith@svu-mcs.com",
-      "mobile": "+1 (555) 123-4567 \n"
-    },
+    "Name": "John Smith",
+    "Email": "john.smith@svu-mcs.com",
+    "mobile": "+1 (555) 123-4567 \n",
     "sales": [
       {
         "saleID": "17",
@@ -15,11 +13,9 @@
     ]
   },
   "10002": {
-    "info": {
-      "Name": "Emily Johnson",
-      "Email": "emily.johnson@svu-mcs.com",
-      "mobile": "+1 (555) 987-6543 \n"
-    },
+    "Name": "Emily Johnson",
+    "Email": "emily.johnson@svu-mcs.com",
+    "mobile": "+1 (555) 987-6543 \n",
     "sales": [
       {
         "saleID": "5",
@@ -30,11 +26,9 @@
     ]
   },
   "10003": {
-    "info": {
-      "Name": "Michael Davis",
-      "Email": "michael.davis@svu-mcs.com",
-      "mobile": "+1 (555) 567-8901 \n"
-    },
+    "Name": "Michael Davis",
+    "Email": "michael.davis@svu-mcs.com",
+    "mobile": "+1 (555) 567-8901 \n",
     "sales": [
       {
         "saleID": "11",
@@ -51,11 +45,9 @@
     ]
   },
   "10004": {
-    "info": {
-      "Name": "Sarah Thompson",
-      "Email": "sarah.thompson@svu-mcs.com",
-      "mobile": "+1 (555) 234-5678 \n"
-    },
+    "Name": "Sarah Thompson",
+    "Email": "sarah.thompson@svu-mcs.com",
+    "mobile": "+1 (555) 234-5678 \n",
     "sales": [
       {
         "saleID": "7",
@@ -72,11 +64,9 @@
     ]
   },
   "10005": {
-    "info": {
-      "Name": "Jessica Wilson",
-      "Email": "jessica.wilson@svu-mcs.com",
-      "mobile": "+1 (555) 678-9012 \n"
-    },
+    "Name": "Jessica Wilson",
+    "Email": "jessica.wilson@svu-mcs.com",
+    "mobile": "+1 (555) 678-9012 \n",
     "sales": [
       {
         "saleID": "1",
@@ -87,11 +77,9 @@
     ]
   },
   "10006": {
-    "info": {
-      "Name": "David Anderson",
-      "Email": "david.anderson@svu-mcs.com",
-      "mobile": "+1 (555) 890-1234 \n"
-    },
+    "Name": "David Anderson",
+    "Email": "david.anderson@svu-mcs.com",
+    "mobile": "+1 (555) 890-1234 \n",
     "sales": [
       {
         "saleID": "15",
@@ -108,11 +96,9 @@
     ]
   },
   "10007": {
-    "info": {
-      "Name": "Jennifer Martinez",
-      "Email": "jennifer.martinez@svu-mcs.com",
-      "mobile": "+1 (555) 901-2345 \n"
-    },
+    "Name": "Jennifer Martinez",
+    "Email": "jennifer.martinez@svu-mcs.com",
+    "mobile": "+1 (555) 901-2345 \n",
     "sales": [
       {
         "saleID": "10",
@@ -129,11 +115,9 @@
     ]
   },
   "10008": {
-    "info": {
-      "Name": "Christopher Brown",
-      "Email": "christopher.brown@svu-mcs.com",
-      "mobile": "+1 (555) 345-6789 \n"
-    },
+    "Name": "Christopher Brown",
+    "Email": "christopher.brown@svu-mcs.com",
+    "mobile": "+1 (555) 345-6789 \n",
     "sales": [
       {
         "saleID": "3",
@@ -144,11 +128,9 @@
     ]
   },
   "10009": {
-    "info": {
-      "Name": "Amanda Taylor",
-      "Email": "amanda.taylor@svu-mcs.com",
-      "mobile": "+1 (555) 789-0123 \n"
-    },
+    "Name": "Amanda Taylor",
+    "Email": "amanda.taylor@svu-mcs.com",
+    "mobile": "+1 (555) 789-0123 \n",
     "sales": [
       {
         "saleID": "13",
@@ -165,11 +147,9 @@
     ]
   },
   "10010": {
-    "info": {
-      "Name": "Matthew Clark",
-      "Email": "matthew.clark@svu-mcs.com",
-      "mobile": "+1 (555) 012-3456\n"
-    },
+    "Name": "Matthew Clark",
+    "Email": "matthew.clark@svu-mcs.com",
+    "mobile": "+1 (555) 012-3456\n",
     "sales": [
       {
         "saleID": "8",
@@ -186,11 +166,9 @@
     ]
   },
   "10011": {
-    "info": {
-      "Name": "Olivia Wilson",
-      "Email": "olivia.wilson@svu-mcs.com",
-      "mobile": "+1 (555) 543-2109 \n"
-    },
+    "Name": "Olivia Wilson",
+    "Email": "olivia.wilson@svu-mcs.com",
+    "mobile": "+1 (555) 543-2109 \n",
     "sales": [
       {
         "saleID": "18",
@@ -201,11 +179,9 @@
     ]
   },
   "10012": {
-    "info": {
-      "Name": "William Thompson",
-      "Email": "william.thompson@svu-mcs.com",
-      "mobile": "+1 (555) 654-3210 \n"
-    },
+    "Name": "William Thompson",
+    "Email": "william.thompson@svu-mcs.com",
+    "mobile": "+1 (555) 654-3210 \n",
     "sales": [
       {
         "saleID": "6",
@@ -222,11 +198,9 @@
     ]
   },
   "10013": {
-    "info": {
-      "Name": "Sophia Davis",
-      "Email": "sophia.davis@svu-mcs.com",
-      "mobile": "+1 (555) 987-6543 \n"
-    },
+    "Name": "Sophia Davis",
+    "Email": "sophia.davis@svu-mcs.com",
+    "mobile": "+1 (555) 987-6543 \n",
     "sales": [
       {
         "saleID": "4",
@@ -237,11 +211,9 @@
     ]
   },
   "10014": {
-    "info": {
-      "Name": "Aiden Johnson",
-      "Email": "aiden.johnson@svu-mcs.com",
-      "mobile": "+1 (555) 876-5432 \n"
-    },
+    "Name": "Aiden Johnson",
+    "Email": "aiden.johnson@svu-mcs.com",
+    "mobile": "+1 (555) 876-5432 \n",
     "sales": [
       {
         "saleID": "14",
@@ -252,11 +224,9 @@
     ]
   },
   "10015": {
-    "info": {
-      "Name": "Emma Martinez",
-      "Email": "emma.martinez@svu-mcs.com",
-      "mobile": "+1 (555) 765-4321 \n"
-    },
+    "Name": "Emma Martinez",
+    "Email": "emma.martinez@svu-mcs.com",
+    "mobile": "+1 (555) 765-4321 \n",
     "sales": [
       {
         "saleID": "16",
@@ -273,11 +243,9 @@
     ]
   },
   "10016": {
-    "info": {
-      "Name": "Liam Anderson",
-      "Email": "liam.anderson@svu-mcs.com",
-      "mobile": "+1 (555) 543-2109 \n"
-    },
+    "Name": "Liam Anderson",
+    "Email": "liam.anderson@svu-mcs.com",
+    "mobile": "+1 (555) 543-2109 \n",
     "sales": [
       {
         "saleID": "9",
@@ -294,11 +262,9 @@
     ]
   },
   "10017": {
-    "info": {
-      "Name": "Isabella Brown",
-      "Email": "isabella.brown@svu-mcs.com",
-      "mobile": "+1 (555) 432-1098 \n"
-    },
+    "Name": "Isabella Brown",
+    "Email": "isabella.brown@svu-mcs.com",
+    "mobile": "+1 (555) 432-1098 \n",
     "sales": [
       {
         "saleID": "2",
@@ -309,11 +275,9 @@
     ]
   },
   "10018": {
-    "info": {
-      "Name": "Noah Taylor",
-      "Email": "noah.taylor@svu-mcs.com",
-      "mobile": "+1 (555) 321-0987 \n"
-    },
+    "Name": "Noah Taylor",
+    "Email": "noah.taylor@svu-mcs.com",
+    "mobile": "+1 (555) 321-0987 \n",
     "sales": [
       {
         "saleID": "12",
@@ -330,11 +294,9 @@
     ]
   },
   "10019": {
-    "info": {
-      "Name": "Sofia Clark",
-      "Email": "sofia.clark@svu-mcs.com",
-      "mobile": "+1 (555) 210-9876 \n"
-    },
+    "Name": "Sofia Clark",
+    "Email": "sofia.clark@svu-mcs.com",
+    "mobile": "+1 (555) 210-9876 \n",
     "sales": [
       {
         "saleID": "20",
@@ -345,11 +307,9 @@
     ]
   },
   "10020": {
-    "info": {
-      "Name": "Ethan Johnson",
-      "Email": "ethan.johnson@svu-mcs.com",
-      "mobile": "+1 (555) 654-3210 "
-    },
+    "Name": "Ethan Johnson",
+    "Email": "ethan.johnson@svu-mcs.com",
+    "mobile": "+1 (555) 654-3210 ",
     "sales": [
       {
         "saleID": "19",
